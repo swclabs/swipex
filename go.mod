@@ -4,7 +4,7 @@ go 1.22.5
 
 require (
 	github.com/a-h/templ v0.2.747
-	github.com/cloudinary/cloudinary-go/v2 v2.8.0
+	github.com/cloudinary/cloudinary-go/v2 v2.9.0
 	github.com/coreos/go-oidc/v3 v3.11.0
 	github.com/getsentry/sentry-go v0.28.1
 	github.com/go-playground/validator/v10 v10.22.0
