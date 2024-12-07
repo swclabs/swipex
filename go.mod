@@ -9,7 +9,7 @@ require (
 	github.com/cloudinary/cloudinary-go/v2 v2.9.0
 	github.com/coreos/go-oidc/v3 v3.11.0
 	github.com/getsentry/sentry-go v0.30.0
-	github.com/go-playground/validator/v10 v10.22.0
+	github.com/go-playground/validator/v10 v10.23.0
 	github.com/golang-jwt/jwt/v5 v5.2.1
 	github.com/gorilla/sessions v1.4.0
 	github.com/hibiken/asynq v0.25.0
